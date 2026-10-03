@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of hamcq/flarum-oauth-center.** Not for installation: use [Packagist](https://packagist.org/packages/hamcq/flarum-oauth-center) or the [upstream repository](https://github.com/HamCQ/flarum-oauth-center).
 
-**0** versions archived · Latest: [`v1.0.3`](https://github.com/flarchive/hamcq-flarum-oauth-center/tree/archive/v1.0.3) · License: `MIT` · Flarum: `^1.8`
+**4** versions archived · Latest: [`v1.0.3`](https://github.com/flarchive/hamcq-flarum-oauth-center/tree/archive/v1.0.3) · License: `MIT` · Flarum: `^1.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2024-08-14 | `^1.8` | [Browse](https://github.com/flarchive/hamcq-flarum-oauth-center/tree/archive/v1.0.0) |
+| `v1.0.1` | 2024-08-14 | `^1.8` | [Browse](https://github.com/flarchive/hamcq-flarum-oauth-center/tree/archive/v1.0.1) |
+| `v1.0.2` | 2024-08-14 | `^1.8` | [Browse](https://github.com/flarchive/hamcq-flarum-oauth-center/tree/archive/v1.0.2) |
+| `v1.0.3` | 2024-08-14 | `^1.8` | [Browse](https://github.com/flarchive/hamcq-flarum-oauth-center/tree/archive/v1.0.3) |
 
 Catalog entry: [packages/hamcq-flarum-oauth-center.json](https://github.com/flarchive/archive-index/blob/main/packages/hamcq-flarum-oauth-center.json)
 
